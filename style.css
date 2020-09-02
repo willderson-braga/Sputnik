@@ -1,0 +1,62 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    font-family: "Circular Std", sans-serif;
+}
+
+.container{
+    list-style: none;
+    list-style: none;
+    background-color: #2D572C;
+    font-size: 18px;
+    display: flex;
+    justify-content: flex-end
+}
+
+.container #logo{
+  font-size: 35px;
+  padding: 10px;
+  text-decoration: none;
+  margin-right: 280px;
+  font-weight: bold;
+  color:white;
+}
+
+.container ul li{
+    display: inline-block;
+    padding:10px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.container ul li a{
+    color:white;
+    text-decoration: none;
+}
+
+.corpo{
+    margin-left:100px;
+    margin-right: 100px;
+    margin-top:30px;
+    #background-color: yellow;
+    height:auto;
+}
+
+.corpo img{
+    height: 500px;
+    widows: 300px;
+    display: flex;
+    margin-left: 300px;
+}
+
+#svg-map path { fill:#0094d9 }
+#svg-map text { fill:#fff; font:12px Arial-BoldMT, sans-serif; cursor:pointer }
+#svg-map a{ text-decoration:none }
+#svg-map a:hover { cursor:pointer; text-decoration:none }
+#svg-map a:hover path{ fill:#003399 !important }
+#svg-map .circle { fill:#66ccff }
+#svg-map a:hover .circle { fill:#003399 !important; cursor:pointer }
+
