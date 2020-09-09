@@ -7,6 +7,8 @@ body{
     font-family: "Circular Std", sans-serif;
 }
 
+/* PÁGINA PRINCIPAL */
+
 .container{
     list-style: none;
     list-style: none;
@@ -29,7 +31,8 @@ body{
     display: inline-block;
     padding:10px;
     margin: 10px;
-    font-weight: bold;
+    font-weight: 450;
+    letter-spacing:2px;
 }
 
 .container ul li a{
@@ -49,9 +52,22 @@ body{
     height: 500px;
     widows: 300px;
     display: flex;
-    margin-left: 300px;
+    margin-left: 400px;
 }
 
+/* PÁGINA SOBRE */
+
+.about{
+    background-color: yellow;
+    margin-left:100px;
+    margin-right: 100px;
+}
+
+.about2{
+    background-color: orange;
+}
+
+/* PÁGINA MAPA */
 #svg-map path { fill:#0094d9 }
 #svg-map text { fill:#fff; font:12px Arial-BoldMT, sans-serif; cursor:pointer }
 #svg-map a{ text-decoration:none }
