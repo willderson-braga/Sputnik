@@ -46,14 +46,17 @@ body{
     margin-left:100px;
     margin-right: 100px;
     margin-top:30px;
-    background-color: yellow;
     #height:auto;
+    display: flex;
+    justify-content: center;
 }
 
-.corpo img{
-    height: 500px;
-    margin-left: 400px;
+.corpo object{
+    height: 800px;
+    width: 1000px;
+    
 }
+
 
 /* PÁGINA SOBRE */
 
