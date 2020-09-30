@@ -13,21 +13,23 @@ body{
     list-style: none;
     list-style: none;
     background-color: #2D572C;
-    font-size: 14,5px;
-    display: flex;
-    justify-content: flex-end
 }
 
 .container #logo{
   font-size: 35px;
-  padding: 10px;
   text-decoration: none;
-  margin-right: 280px;
   font-weight: bold;
   color:white;
+  float:left;
+  padding:9px;
 }
 
-.container ul li{
+.menu{    
+    display: flex;
+    justify-content: flex-end;
+}
+
+.menu ul li{
     display: inline-block;
     padding:10px;
     margin: 10px;
@@ -35,7 +37,7 @@ body{
     letter-spacing:2px;
 }
 
-.container ul li a{
+.menu ul li a{
     color:white;
     text-decoration: none;
 }
@@ -50,7 +52,6 @@ body{
 
 .corpo img{
     height: 500px;
-    widows: 300px;
     display: flex;
     margin-left: 400px;
 }
