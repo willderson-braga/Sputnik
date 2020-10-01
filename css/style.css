@@ -58,24 +58,36 @@ body{
 }
 
 
-/* PÁGINA SOBRE */
-
-.about{
-    background-color: yellow;
-    margin-left:100px;
-    margin-right: 100px;
-}
-
-.about2{
-    background-color: orange;
-}
-
 /* PÁGINA MAPA */
-#svg-map path { fill:#2D572C }
-#svg-map text { fill:#fff; font:12px Arial-BoldMT, sans-serif; cursor:pointer }
-#svg-map a{ text-decoration:none }
-#svg-map a:hover { cursor:pointer; text-decoration:none }
-#svg-map a:hover path{ fill:#65A364 !important }
-#svg-map .circle { fill:#45A343 }
-#svg-map a:hover .circle { fill:#65A364 !important; cursor:pointer }
+#svg-map path{ 
+    fill:#2D572C 
+}
+
+#svg-map text{ 
+    fill:#fff;
+    font:12px Arial-BoldMT, sans-serif; 
+    cursor:pointer 
+}
+
+#svg-map a{ 
+    text-decoration:none 
+
+}
+#svg-map a:hover{
+    cursor:pointer;
+    text-decoration:none 
+}
+
+#svg-map a:hover path{
+    fill:#65A364 !important 
+}
+
+#svg-map .circle{ 
+    fill:#45A343 
+}
+
+#svg-map a:hover .circle{
+    fill:#65A364 !important; 
+    cursor:pointer 
+}
 
