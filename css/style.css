@@ -59,34 +59,34 @@ body{
 
 
 /* PÁGINA MAPA */
-#svg-map path{ 
+#mapa path{ 
     fill:#2D572C 
 }
 
-#svg-map text{ 
+#mapa text{ 
     fill:#fff;
     font:12px Arial-BoldMT, sans-serif; 
     cursor:pointer 
 }
 
-#svg-map a{ 
+#mapa a{ 
     text-decoration:none 
 
 }
-#svg-map a:hover{
+#mapa a:hover{
     cursor:pointer;
     text-decoration:none 
 }
 
-#svg-map a:hover path{
+#mapa a:hover path{
     fill:#65A364 !important 
 }
 
-#svg-map .circle{ 
+#mapa .circle{ 
     fill:#45A343 
 }
 
-#svg-map a:hover .circle{
+#mapa a:hover .circle{
     fill:#65A364 !important; 
     cursor:pointer 
 }
