@@ -1,5 +1,5 @@
 /* JS */
-$(document).ready(function(){
+document.ready(function(){
 	$('#toca').mouseenter(function(){
 		$('#msg-toca').show();
 	});
