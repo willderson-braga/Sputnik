@@ -91,3 +91,71 @@ body{
     cursor:pointer 
 }
 
+/*PAGINA SOBRE COVID*/
+
+body{
+    font-family: sans-serif;
+}
+#p1{
+    
+    margin: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background: green;
+    text-decoration: white; 
+}
+header nav ul {
+    list-style: none;
+    padding-left: 700px;
+
+}
+header nav ul li {
+    display: inline-block;
+    margin-right: 35px;
+
+}
+header nav ul li {
+    font-size: 15px;
+    color: #000;
+    text-decoration:none;
+}
+nav ul li a{
+    color: white;
+}
+header ul li a{
+    text-decoration:none;
+}
+h1{
+    text-transform: capitalize;
+    font-size: 30px;
+    color: green;
+}
+h1{
+    color: green;
+}
+h2{
+    color: green;
+}
+p{
+    font-size: 16px;
+    font-family: sans-serif;
+    text-align: left;
+}
+#principal{
+    margin-left: auto;
+    margin-right: auto;
+}
+#p2{
+    float: right;
+}
+h3{
+    text-align: center
+}
+#logo{
+  font-size: 35px;
+  text-decoration: none;
+  font-weight: bold;
+  color:white;
+  float:left;
+  padding:9px;
+}
