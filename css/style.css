@@ -94,62 +94,64 @@ body{
 /*PAGINA SOBRE COVID*/
 
 body{
-    font-family: sans-serif;
+	font-family: sans-serif;
+	
+
 }
 #p1{
-    
-    margin: auto;
-    padding-top: 15px;
-    padding-bottom: 15px;
-    background: green;
-    text-decoration: white; 
+	
+	margin: auto;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background: #2D572C;
+	text-decoration: white; 
 }
 header nav ul {
-    list-style: none;
-    padding-left: 700px;
+	list-style: none;
+	padding-left: 700px;
 
 }
 header nav ul li {
-    display: inline-block;
-    margin-right: 35px;
+	display: inline-block;
+	margin-right: 35px;
 
 }
 header nav ul li {
-    font-size: 15px;
-    color: #000;
-    text-decoration:none;
+	font-size: 15px;
+	color: #000;
+	text-decoration:none;
 }
 nav ul li a{
-    color: white;
+	color: white;
 }
 header ul li a{
-    text-decoration:none;
+	text-decoration:none;
 }
 h1{
-    text-transform: capitalize;
-    font-size: 30px;
-    color: green;
+	text-transform: capitalize;
+	font-size: 30px;
+	color: #2D572C;
 }
 h1{
-    color: green;
+	color: #2D572C;
 }
 h2{
-    color: green;
+	color: #2D572C;
 }
 p{
-    font-size: 16px;
-    font-family: sans-serif;
-    text-align: left;
+	font-size: 16px;
+	font-family: sans-serif;
+	text-align: left;
 }
 #principal{
-    margin-left: auto;
-    margin-right: auto;
+	margin-left: auto;
+	margin-right: auto;
 }
 #p2{
-    float: right;
+	float: right;
 }
 h3{
-    text-align: center
+	text-align: center
 }
 #logo{
   font-size: 35px;
