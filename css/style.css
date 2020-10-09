@@ -95,14 +95,12 @@ body{
 
 body{
 	font-family: sans-serif;
-	
-
 }
 #p1{
 	
 	margin: auto;
-	padding-top: 10px;
-	padding-bottom: 10px;
+	padding-top: 15px;
+	padding-bottom: 15px;
 	background: #2D572C;
 	text-decoration: white; 
 }
