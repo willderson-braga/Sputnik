@@ -16,6 +16,6 @@ Mapa de calor para visualizar a distribuição de casos do COVID19 por municípi
 
 ### MAPA  
 
-![](imagens/mapa-brasil-zoom.PNG)  
-![](imagens/rio-de-janeiro.PNG)  
+![](imagens/mapa-brasil.PNG)  
+![](imagens/mapa_calor_brasil.PNG)  
 ![](imagens/rio-de-janeiro_info.PNG)
