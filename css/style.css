@@ -35,7 +35,6 @@ body {
     display: inline-block;
     padding: 2px 25px 0px 0px;
     margin: 10px;
-    #margin-top: 20px;
     font-weight: 450;
     letter-spacing: 2px;
     font-size: 16px;
@@ -113,9 +112,9 @@ footer p{
     font-weight: 600;
 }
 
-/* PÁGINA - SOBRE A COVID E EXAME*/
+/* PÁGINA - SOBRE A COVID, EXAME E PERGUNTAS*/
 
-.text {
+.text, .perguntas{
     margin-left: 40px;
     margin-right: 40px;
     text-align: justify;
@@ -139,7 +138,7 @@ footer p{
     justify-content: center;
 }
 
-.text p {
+.text p{
     margin-top: 10px;
     margin-bottom: 10px;
     line-height: 1.5;
@@ -150,7 +149,7 @@ footer p{
     margin-top: 10px;
 }
 
-.text ul li {
+.text ul li, .perguntas ul li {
     margin-left: 50px;
     line-height: 1.8;
 }
@@ -159,4 +158,10 @@ footer p{
     margin-top: 20px;
     width: 100%;
 
+}
+
+/* PÁGINA PERGUNTAS */
+
+.perguntas p .perg{
+    
 }
