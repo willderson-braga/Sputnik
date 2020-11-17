@@ -138,6 +138,18 @@ footer p{
     justify-content: center;
 }
 
+.text h5{
+    font-size: 20px;
+    margin-top:10px;
+    margin-bottom: 25px;
+}
+
+.text h6{
+    margin-bottom: 20px;
+    font-size:24px;
+    
+}
+
 .text p{
     margin-top: 10px;
     margin-bottom: 10px;
